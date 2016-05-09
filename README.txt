@@ -1,3 +1,8 @@
+#Fitness Application
+Date Started:10 April 2016
+Date Ended:04 May 2016
+Course:CSE 535 Mobile Computing
+
 Team members:-
 1. Omkar Salvi - 1209536104	
 2. Saurabh Jagdhane - 1209572595
